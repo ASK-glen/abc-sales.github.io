@@ -3,7 +3,7 @@ name: Deploy
 on:
   push:
     branches:
-      - main  # main 브랜치에 푸시될 때 실행2
+      - main  # main 브랜치에 푸시될 때 실행3
 
 jobs:
   deploy:
