@@ -10,8 +10,9 @@ Docc is a starter theme for [Gridsome](https://gridsome.org/) which is a static 
 
 1. 항목1
 1. 항목2000
-1. 항목3566
-
+1. 항목356
+2. dfgdfgdsfg
+   
 ## Fast by default
 
 This is the catchphrase of Gridsome and true in any sense of the word. Static site generators output plain html files and have other great features like image processing and lazy-loading. After Serving the initial html, Gridsome site turn into a snappy single page application.
