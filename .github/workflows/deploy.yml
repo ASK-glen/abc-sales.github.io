@@ -29,7 +29,7 @@ jobs:
         # Gridsome으로 빌드
 
       - name: Set CNAME
-        run: echo 'www.abcsales.co.kr' > ./dist/CNAME
+        run: echo 'abcsales.co.kr' > ./dist/CNAME
         # CNAME 설정 추가
 
       - name: Deploy to GitHub Pages
