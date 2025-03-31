@@ -9,7 +9,7 @@ next: '/docs/installation/'
 Docc is a starter theme for [Gridsome](https://gridsome.org/) which is a static site generator powered by Vue. It allows you to quickly start writing your technical documentation for any kind of project.
 
 1. 항목1
-1. 항목2
+1. 항목2000
 1. 항목3566
 
 ## Fast by default
