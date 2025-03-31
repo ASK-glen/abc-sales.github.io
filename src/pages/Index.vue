@@ -5,11 +5,11 @@
         <div class="flex flex-col items-center mb-2 text-ui-primary">
           <Logo :width="80" />
           <h2 class="text-3xl text-6xl font-black tracking-tighter border-none">
-          홈페이지 제작중 / Under a construction
+          ABC Sales Korea 홈페이지 제작중 / Under a construction
           </h2>
         </div>
         <h1 class="text-4xl text-center lg:text-5xl">
-          Great Documentation starts here.
+          Find your best components with ABC-Taiwan Electronics.
         </h1>
         <p class="text-xl font-medium text-center">
           Perfect Lighthouse score out of the box. Easy to set-up. Dark mode included.
