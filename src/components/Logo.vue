@@ -1,5 +1,5 @@
 <template>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width=100 height=100>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width=100 height=100 >
   <g id="g14" clip-path="url(#clipPath18)" transform="matrix(1.33333, 0, 0, -1.33333, -399.235, 520.06)">
     <g id="g72" transform="translate(300.7024,287.5964)">
       <path d="m 0,0 h 19.981 l 26.941,51.405 -9.99,19.062 z" style="fill-opacity: 1; fill-rule: evenodd; stroke: rgb(85, 153, 218); fill: rgb(0, 0, 255);" id="path74"></path>
